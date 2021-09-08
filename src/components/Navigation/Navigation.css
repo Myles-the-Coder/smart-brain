@@ -1,0 +1,12 @@
+.btn {
+	background: none;
+  color: #000;
+  border: none;
+}
+
+.btn:hover {
+  background: none;
+  color: #000;
+  filter: brightness(90%);
+  text-decoration: underline;
+}
